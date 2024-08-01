@@ -11,3 +11,5 @@ Cargo.lock
 
 farf/
 .idea
+.DS_Store
+
